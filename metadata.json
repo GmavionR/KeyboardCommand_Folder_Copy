@@ -1,0 +1,6 @@
+{
+  "name": "KeyboardCommand - 文件夹内容复制",
+  "description": "Windows 桌面应用端文件夹浏览与文件上下文包复制交互系统原型及设计规范验证稿",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
